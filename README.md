@@ -3,8 +3,8 @@
 
 
 
-**Step 1** :** Clone the project - TakeHomeExercise**
-**Step 2** : **Install Playwright**
+** Clone the project - TakeHomeExercise**
+**Install Playwright**
 **Programming Language** : **TypeScript** 
 
 **Please use the following commands to run the project : **
