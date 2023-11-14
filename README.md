@@ -1,5 +1,8 @@
 # TakeHomeExercise
 **Prerequisites** : **Node JS, VSCode IDE**
+
+
+
 **Step 1** :** Clone the project - TakeHomeExercise**
 **Step 2** : **Install Playwright**
 **Programming Language** : **TypeScript** 
