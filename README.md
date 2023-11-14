@@ -4,8 +4,20 @@
 
 
 ** Clone the project - TakeHomeExercise**
+
+
+
+
 **Install Playwright**
+
+
+
+
 **Programming Language** : **TypeScript** 
+
+
+
+
 
 **Please use the following commands to run the project : **
 - **npx playwright test --headed**
